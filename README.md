@@ -46,16 +46,12 @@ Aquí tienes el acordeón no oficial de la certificación **AI-901 Microsoft Cer
 > Microsoft Foundry cambia muy rápido (nombres de servicios, portal y versiones de SDK). El código de este acordeón se probó contra la documentación vigente en octubre de 2026; si algo no te funciona, revisa la versión del paquete con `pip show <paquete>`.
 
 ---
-## 🗺️ Ruta de estudio
+## Examenes prueba
 
-```mermaid
-flowchart LR
-    A[🧠 Parte 1<br/>Conceptos de IA] --> B[☁️ Parte 2<br/>Microsoft Foundry]
-    B --> C[📝 Evaluación de práctica]
-    C --> D[🏅 AI-901]
-    D --> E[🚀 AI-103<br/>Apps y agentes]
-    E --> F[🧭 Multi-Agent<br/>AI Solutions Expert]
-```
+Estos examenes prueba de Kahoot no tienen limite de tiempo y puedes hacerlos cuantas veces lo necesites. Además, cada pregunta esta basada en las preguntas reales del examen de certificación.
+
+- [Examen prueba 1](https://kahoot.it/challenge/02817236?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1791857454359)
+
 
 ---
 ## 🎯 ¿Qué evalúa el examen?
